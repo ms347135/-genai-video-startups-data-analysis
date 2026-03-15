@@ -1,0 +1,587 @@
+{
+  "ai_video_companies": [
+    {
+      "company_name": "Runway",
+      "website": "https://runwayml.com",
+      "founded_year": 2018,
+      "headquarters": "New York, NY",
+      "slogan_tagline": "Advancing creativity with AI",
+      "founders": [
+        {
+          "name": "Cristóbal Valenzuela",
+          "role": "Co-founder & CEO",
+          "bio": "Chilean artist, researcher, and entrepreneur. Graduate of NYU's Interactive Telecommunications Program (ITP). Previously a researcher at NYU. Named to TIME100 Most Influential People in AI (2023) and Forbes 30 Under 30 - Art & Style (2020). Background in art and technology."
+        },
+        {
+          "name": "Anastasis Germanidis",
+          "role": "Co-founder & CTO",
+          "bio": "Greek AI researcher, software engineer, and artist. Graduate of NYU's ITP program. Previously worked at Quantcast, Chartbeat, Zocdoc, and IBM Research as Machine Learning Researcher in Computer Vision. Expert in video generation models, multimodal AI, and deep learning."
+        },
+        {
+          "name": "Alejandro Matamala",
+          "role": "Co-founder & Chief Design Officer",
+          "bio": "Chilean designer and creative technologist. Graduate of NYU's ITP program. Background in design, film, and advertising. Previously worked in creative technology and design. Led Runway's design vision and user experience."
+        }
+      ],
+      "total_funding_usd": 544500000,
+      "latest_funding_round_date": "2025-04-03",
+      "latest_funding_amount_usd": 0,
+      "latest_funding_round_type": "Series E",
+      "valuation_usd": 3000000000,
+      "revenue_arr_usd": null,
+      "revenue_multiple": null,
+      "valuation_multiple_description": "Based on latest funding rounds. Revenue figures not publicly disclosed.",
+      "key_products": [
+        "Gen-1",
+        "Gen-2",
+        "Gen-3",
+        "Runway Studios",
+        "AI Magic Tools",
+        "Motion Brush",
+        "Infinite Image"
+      ],
+      "target_market": "Professional filmmakers, video creators, designers, marketers, and creative professionals in entertainment, advertising, and media",
+      "investors": [
+        "Google",
+        "Salesforce Ventures",
+        "NVIDIA",
+        "Lux Capital",
+        "Amplify Partners",
+        "Compound",
+        "Ann Miura-Ko",
+        "Eric Schmidt"
+      ],
+      "source_links": [
+        "https://pitchbook.com/profiles/company/268803-28",
+        "https://techcrunch.com",
+        "https://www.runwayml.com"
+      ]
+    },
+    {
+      "company_name": "Synthesia",
+      "website": "https://synthesia.io",
+      "founded_year": 2017,
+      "headquarters": "London, UK",
+      "slogan_tagline": "Making video as easy as writing a doc",
+      "founders": [
+        {
+          "name": "Victor Riparbelli",
+          "role": "CEO & Co-founder",
+          "bio": "Danish entrepreneur. BSc in Computer Science and Business Informatics from IT-Universitetet i København, studied at Stanford University (2015). Previously founded RBLI (digital strategy consultancy), worked at Founders startup studio, and launched Immersive Futures (VR/AR consultancy). Also co-founded Coincall (crypto portfolio platform, sold 2019)."
+        },
+        {
+          "name": "Steffen Tjerrild",
+          "role": "CFO & COO & Co-founder",
+          "bio": "Danish executive. Master's in Applied Economics & Finance from Copenhagen Business School. Previously worked in sales and moved into startup world. Co-founded Synthesia with Victor Riparbelli in 2017."
+        }
+      ],
+      "total_funding_usd": 536000000,
+      "latest_funding_round_date": "2025-01-14",
+      "latest_funding_amount_usd": 180000000,
+      "latest_funding_round_type": "Series D",
+      "valuation_usd": 2100000000,
+      "revenue_arr_usd": 100000000,
+      "revenue_multiple": 21.0,
+      "valuation_multiple_description": "$2.1B valuation / $100M ARR = 21x ARR multiple",
+      "key_products": [
+        "Express-2 Avatars",
+        "Synthesia 3.0",
+        "Video Agents",
+        "AI Video Assistant",
+        "Personal Avatar",
+        "AI Translate",
+        "Screen Recorder"
+      ],
+      "target_market": "Enterprises for training, marketing, sales enablement, internal communications. Used by 60,000+ enterprises including 90% of Fortune 100",
+      "investors": [
+        "NEA",
+        "GV (Google Ventures)",
+        "Accel",
+        "Kleiner Perkins",
+        "MMC Ventures",
+        "WiL (World Innovation Lab)",
+        "Atlassian Ventures",
+        "PSP Growth"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2025/01/14/synthesia-snaps-up-180m-on-a-2-1b-valuation-for-its-b2b-ai-video-platform/",
+        "https://www.synthesia.io"
+      ]
+    },
+    {
+      "company_name": "MiniMax",
+      "website": "https://minimaxi.com",
+      "founded_year": 2021,
+      "headquarters": "Shanghai, China",
+      "slogan_tagline": "Intelligence with Everyone",
+      "founders": [
+        {
+          "name": "Yan Junjie",
+          "role": "Founder & CEO",
+          "bio": "36-year-old Chinese AI researcher and entrepreneur. Former researcher at SenseTime. Founded MiniMax in December 2021 with a vision for multimodal AGI. Led company's B2C-first approach and bet on multimodality from day one. Described as 'gentle,' 'Buddhist,' and 'low-key' but orchestrated one of the fiercest AI IPOs in history with 109% debut."
+        },
+        {
+          "name": "Yun Yeyi",
+          "role": "Co-founder & Director",
+          "bio": "Former director of innovative business at SenseTime. Operational discipline leader with global orientation. Attended Johns Hopkins and Columbia Universities. Four years of experience in the US."
+        },
+        {
+          "name": "Yang Bin",
+          "role": "Co-founder",
+          "bio": "Co-founder of MiniMax. Part of founding team from SenseTime ecosystem. Involvement status could not be confirmed."
+        },
+        {
+          "name": "Zhou Yucong",
+          "role": "Co-founder",
+          "bio": "Co-founder of MiniMax. Part of founding team from SenseTime ecosystem. Involvement status could not be confirmed."
+        }
+      ],
+      "total_funding_usd": 1150000000,
+      "latest_funding_round_date": "2026-01-09",
+      "latest_funding_amount_usd": 538000000,
+      "latest_funding_round_type": "IPO",
+      "valuation_usd": 12800000000,
+      "revenue_arr_usd": null,
+      "revenue_multiple": null,
+      "valuation_multiple_description": "IPO valuation of $12.8B based on Hong Kong Stock Exchange debut. Public company as of January 2026.",
+      "key_products": [
+        "MiniMax M1",
+        "Hailuo Video",
+        "Hailuo-02",
+        "MiniMax Speech 02",
+        "MiniMax Music 01",
+        "MiniMax Agent",
+        "Talkie",
+        "Star Field"
+      ],
+      "target_market": "Global consumers (B2C-first approach), enterprise developers via Open API Platform. Products serve tens of millions of users across text, audio, video, and music applications in 200+ countries",
+      "investors": [
+        "MiHoYo",
+        "Alibaba",
+        "Tencent",
+        "Hillhouse Investment",
+        "HongShan (Sequoia China)",
+        "IDG Capital",
+        "Yunqi Capital"
+      ],
+      "source_links": [
+        "https://www.caproasia.com/2026/01/01/china-ai-startup-minimax-hong-kong-ipo",
+        "https://www.turingpost.com/p/minimax",
+        "https://minimaxi.com"
+      ]
+    },
+    {
+      "company_name": "ElevenLabs",
+      "website": "https://elevenlabs.io",
+      "founded_year": 2022,
+      "headquarters": "London, UK (with offices in New York, Warsaw, Bengaluru, Tokyo)",
+      "slogan_tagline": "The voice of AI",
+      "founders": [
+        {
+          "name": "Mati Staniszewski",
+          "role": "Co-founder & CEO",
+          "bio": "Polish entrepreneur, age 30. First-Class Honours in Mathematics from Imperial College London. Previously worked at Opera Software (Business Intelligence), BlackRock (Risk Analyst), and Palantir Technologies (Deployment Strategist, 2018-2022). Named to Forbes 30 Under 30 Europe (Technology) 2024 and TIME100 AI 2025. Led ElevenLabs to unicorn status in under 2 years."
+        },
+        {
+          "name": "Piotr Dąbkowski",
+          "role": "Co-founder & Head of Research",
+          "bio": "Polish AI researcher, age 30. BA in Engineering from University of Oxford (with Distinction), MPhil in Advanced Computer Science from University of Cambridge. AI-based image detection thesis published at NeurIPS 2017. Previously worked at Opera Software, Tessian (cybersecurity), and Google (Software Engineer in Zürich, focusing on AI and large-scale systems, 2018-2022)."
+        }
+      ],
+      "total_funding_usd": 281000000,
+      "latest_funding_round_date": "2025-09-01",
+      "latest_funding_amount_usd": 100000000,
+      "latest_funding_round_type": "Secondary/Tender Offer",
+      "valuation_usd": 6600000000,
+      "revenue_arr_usd": 330000000,
+      "revenue_multiple": 20.0,
+      "valuation_multiple_description": "$6.6B valuation / $330M ARR = 20x ARR multiple. Also reported in talks for $11B valuation at 20x ARR. Profitable with 60% margins.",
+      "key_products": [
+        "Text-to-Speech",
+        "Voice Cloning",
+        "Speech-to-Text",
+        "AI Voice Library",
+        "ElevenLabs Reader",
+        "Conversational AI",
+        "Sound Effects",
+        "Eleven Music"
+      ],
+      "target_market": "Media companies (Washington Post, TIME), gaming (Epic Games, Fortnite), publishing (HarperCollins), customer service, audiobooks, video dubbing. Used by 41% of Fortune 500",
+      "investors": [
+        "a16z",
+        "Sequoia Capital",
+        "ICONIQ Growth",
+        "NEA",
+        "Smash Capital",
+        "Salesforce Ventures",
+        "SV Angel",
+        "NFDG",
+        "BroadLight Capital",
+        "Lunate (Abu Dhabi)",
+        "Deutsche Telekom",
+        "LG Technology Ventures",
+        "HubSpot Ventures"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2025/01/30/elevenlabs-raises-180-million-in-series-c-funding-at-3-3-billion-valuation/",
+        "https://sacra.com/c/elevenlabs/",
+        "https://elevenlabs.io"
+      ]
+    },
+    {
+      "company_name": "Moonvalley",
+      "website": "https://moonvalley.ai",
+      "founded_year": 2023,
+      "headquarters": "Toronto, Canada (with offices in Los Angeles and London)",
+      "slogan_tagline": "The world's first production-grade AI generative videography platform built on licensed content",
+      "founders": [
+        {
+          "name": "Naeem Talukdar",
+          "role": "Co-founder & CEO",
+          "bio": "Canadian entrepreneur, age 32. Graduate of Industrial Engineering program at University of Toronto (2015). Previously co-founded ContentFly (a marketplace for freelance writers) with John Thomas in 2018, backed by Khosla Ventures. Wound down ContentFly after realizing LLMs would disrupt the business. Took sabbatical to study AI video generation research papers before founding Moonvalley."
+        },
+        {
+          "name": "John Thomas",
+          "role": "Co-founder",
+          "bio": "Canadian entrepreneur. University of Toronto graduate. Co-founded ContentFly with Naeem Talukdar in 2018. Joined Moonvalley founding team in 2023."
+        },
+        {
+          "name": "Mateusz Malinowski",
+          "role": "Chief Scientific Officer & Co-founder",
+          "bio": "Former Google DeepMind researcher in London. Worked on Google's text-to-video generator, Veo 1. Left Google to pursue independent venture due to slow product release cycles."
+        },
+        {
+          "name": "Mikołaj Bińkowski",
+          "role": "VP of Research & Co-founder",
+          "bio": "Former Google DeepMind researcher in London. Worked on Google's text-to-video generator, Veo 1. Co-founded Moonvalley to advance AI video generation technology."
+        },
+        {
+          "name": "Bryn Mooser",
+          "role": "Co-founder of Asteria (joined Moonvalley)",
+          "bio": "Two-time Oscar-nominated filmmaker for documentary shorts. Co-founded Asteria (AI film studio) with Natasha Lyonne. Asteria was acquired by Moonvalley. Leads Moonvalley's movie-making unit Asteria Labs."
+        }
+      ],
+      "total_funding_usd": 154000000,
+      "latest_funding_round_date": "2025-07-14",
+      "latest_funding_amount_usd": 84000000,
+      "latest_funding_round_type": "Seed Extension",
+      "valuation_usd": null,
+      "revenue_arr_usd": null,
+      "revenue_multiple": null,
+      "valuation_multiple_description": "Valuation not disclosed. Total funding of $154M raised across seed ($70M in 2024) and seed extension ($84M in 2025).",
+      "key_products": [
+        "Marey AI Video Model",
+        "3D Space Awareness",
+        "Camera Controls",
+        "Motion Transfer",
+        "Indemnity Policy (copyright protection)",
+        "Asteria Film Studio"
+      ],
+      "target_market": "Professional filmmakers, Hollywood studios, brand designers, creative professionals seeking ethically-trained AI video models with licensed content. Strategic investors include CAA and Comcast Ventures",
+      "investors": [
+        "General Catalyst",
+        "Khosla Ventures",
+        "Bessemer Venture Partners",
+        "Creative Artists Agency (CAA)",
+        "CoreWeave",
+        "Comcast Ventures",
+        "YCombinator"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2025/04/07/ai-video-startup-moonvalley-raised-a-fresh-43m-sec-filing-shows/",
+        "https://betakit.com/moonvalley-raises-additional-84-million",
+        "https://moonvalley.ai"
+      ]
+    },
+    {
+      "company_name": "Higgsfield AI",
+      "website": "https://higgsfield.ai",
+      "founded_year": 2023,
+      "headquarters": "Los Angeles, CA",
+      "slogan_tagline": "Where ideas transform into videos",
+      "founders": [
+        {
+          "name": "Alex Mashrabov",
+          "role": "Founder & CEO",
+          "bio": "Uzbekistani-American entrepreneur. Former Head of Generative AI at Snap Inc., where he led development of AR effects, filters, MyAI chatbot, and Cameos Stories. Co-founded AI Factory (acquired by Snap for $166M in 2020). Ranked among top 3 in the world in competitive programming at age 20. Started programming at age 10. Parents are engineering professors (mother designed rockets for Soviet space program). Degrees from UC Berkeley, Innopolis University, and Moscow Institute of Physics and Technology (MIPT)."
+        },
+        {
+          "name": "Yerzat Dulat",
+          "role": "Co-founder & CTO",
+          "bio": "AI researcher specializing in generative video. Co-founded Higgsfield AI with Alex Mashrabov. Previously worked in AI research and development."
+        },
+        {
+          "name": "Mahi de Silva",
+          "role": "Co-founder",
+          "bio": "Co-founder of Higgsfield AI. Combination of deep product experience with technical strength."
+        }
+      ],
+      "total_funding_usd": 138000000,
+      "latest_funding_round_date": "2026-01-15",
+      "latest_funding_amount_usd": 80000000,
+      "latest_funding_round_type": "Series A Extension",
+      "valuation_usd": 1300000000,
+      "revenue_arr_usd": 200000000,
+      "revenue_multiple": 6.5,
+      "valuation_multiple_description": "$1.3B valuation / $200M ARR = 6.5x ARR multiple. First Kazakhstan unicorn startup. Doubled from $100M ARR in ~2 months.",
+      "key_products": [
+        "Diffuse mobile app",
+        "Web Studio",
+        "Higgsfield Ads",
+        "Soul/Soul ID (digital doubles)",
+        "Talking Avatars",
+        "UGC Factory",
+        "Pikaffects",
+        "Video Reasoning Engine"
+      ],
+      "target_market": "Social media marketers (85% of usage), brands, agencies, performance marketers, and content creators. Focus on B2B commercial video production at scale",
+      "investors": [
+        "Accel",
+        "Menlo Ventures",
+        "GFT Ventures",
+        "AI Capital Partners (Alpha Intelligence Capital)",
+        "BroadLight Capital",
+        "NextEquity Partners",
+        "Alpha Square Group"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+        "https://sacra.com/c/higgsfield/",
+        "https://higgsfield.ai"
+      ]
+    },
+    {
+      "company_name": "Pika",
+      "website": "https://pika.art",
+      "founded_year": 2023,
+      "headquarters": "Mountain View, California",
+      "slogan_tagline": "An idea-to-video platform that brings your creativity to motion",
+      "founders": [
+        {
+          "name": "Demi Guo",
+          "role": "Co-founder & CEO",
+          "bio": "Chinese-American entrepreneur, born circa 1999 in Hangzhou, China. BA in Mathematics and Master's in Computer Science from Harvard University. Silver medal at 2015 International Olympiad in Informatics. Dropped out of Stanford Computer Science PhD program in April 2023 to found Pika. Previously interned at Microsoft, Google, Meta AI, Google Brain, and Microsoft Research. Hailed as 'genius girl' in China. Mother graduated from MIT, father was former chairman of Sunyard Technology Group."
+        },
+        {
+          "name": "Chenlin Meng",
+          "role": "Co-founder & CTO",
+          "bio": "Chinese-American AI researcher. Dropped out of Stanford Computer Science PhD program alongside Demi Guo in April 2023. Previously conducted research in Stanford Artificial Intelligence Laboratory focusing on generative models and diffusion models."
+        }
+      ],
+      "total_funding_usd": 135000000,
+      "latest_funding_round_date": "2024-06-05",
+      "latest_funding_amount_usd": 80000000,
+      "latest_funding_round_type": "Series B",
+      "valuation_usd": 470000000,
+      "revenue_arr_usd": 7600000,
+      "revenue_multiple": 61.8,
+      "valuation_multiple_description": "$470M valuation / $7.6M revenue = 61.8x revenue multiple. Revenue figure from 2024.",
+      "key_products": [
+        "Pika 1.0",
+        "Pika 1.5",
+        "Pika 2.2",
+        "Pikaffects",
+        "Pikadditions",
+        "Pikaswaps",
+        "Pikascenes",
+        "Pikaframes",
+        "Predictive Video",
+        "Text-to-Video",
+        "Image-to-Video"
+      ],
+      "target_market": "Creative professionals, casual creators experimenting with AI, social media content creators, and professionals integrating AI into video workflows. 500,000+ users generating millions of videos weekly",
+      "investors": [
+        "Spark Capital",
+        "Lightspeed Venture Partners",
+        "Greycroft",
+        "Jared Leto",
+        "Adam D'Angelo (Quora)",
+        "Nat Friedman",
+        "Daniel Gross",
+        "Homebrew",
+        "Conviction Partners"
+      ],
+      "source_links": [
+        "https://grokipedia.com/page/demi-guo",
+        "https://pika.art/blog",
+        "https://sacra.com/c/pika/"
+      ]
+    },
+    {
+      "company_name": "Luma AI",
+      "website": "https://lumalabs.ai",
+      "founded_year": 2021,
+      "headquarters": "Palo Alto, California",
+      "slogan_tagline": "Dream Machine - generate realistic videos from text",
+      "founders": [
+        {
+          "name": "Amit Jain",
+          "role": "Co-founder & CEO",
+          "bio": "Former Apple engineer who worked on Vision Pro project and computer vision. Contributed to multimedia experiences for spatial computing. Brought product vision and technical expertise in AI and computer vision to Luma AI."
+        },
+        {
+          "name": "Alex Yu",
+          "role": "Co-founder & Former CTO",
+          "bio": "Former UC Berkeley AI researcher in Kanazawa's group. Authored influential papers on neural rendering techniques including pixelNeRF and PlenOctrees. Currently AI researcher at OpenAI. Former CTO of Luma AI until joining OpenAI. Expert in 3D scene representation and neural rendering."
+        },
+        {
+          "name": "Alberto Taiuti",
+          "role": "Co-founder",
+          "bio": "Former Apple employee with experience in AR/VR systems engineering. Co-founded Luma AI in 2021 with vision for accessible 3D content creation."
+        }
+      ],
+      "total_funding_usd": 1000000000,
+      "latest_funding_round_date": "2025-11-21",
+      "latest_funding_amount_usd": 900000000,
+      "latest_funding_round_type": "Series C",
+      "valuation_usd": 4000000000,
+      "revenue_arr_usd": 8000000,
+      "revenue_multiple": 500.0,
+      "valuation_multiple_description": "$4B valuation / $8M annualized revenue (as of Dec 2024, from Dream Machine app) = 500x revenue multiple. High multiple reflects focus on building multimodal AGI infrastructure.",
+      "key_products": [
+        "Dream Machine",
+        "Ray3 (reasoning video model)",
+        "Photon (image generation)",
+        "Genie (3D creation)",
+        "World Models",
+        "Gaussian Splatting",
+        "Neural Radiance Fields (NeRF)"
+      ],
+      "target_market": "Creative industries including filmmaking, gaming, advertising, and design. Studios, brands, and individual creators. Embedded in Adobe products",
+      "investors": [
+        "HUMAIN (Saudi sovereign wealth fund)",
+        "AMD Ventures",
+        "Amazon",
+        "Andreessen Horowitz (a16z)",
+        "Amplify Partners",
+        "Matrix Partners",
+        "NVIDIA Ventures",
+        "General Catalyst",
+        "Hanwha Corporation",
+        "LDV Capital"
+      ],
+      "source_links": [
+        "https://www.superbcrew.com/luma-ai-raises-900-million-in-series-c-funding-round/",
+        "https://sacra.com/c/luma-ai/",
+        "https://lumalabs.ai"
+      ]
+    },
+    {
+      "company_name": "HeyGen",
+      "website": "https://heygen.com",
+      "founded_year": 2020,
+      "headquarters": "Los Angeles, CA (formerly Shenzhen, China)",
+      "slogan_tagline": "Diverse & engaging videos, made 10x faster & cheaper by AI",
+      "founders": [
+        {
+          "name": "Joshua Xu",
+          "role": "Co-founder & CEO",
+          "bio": "Chinese-American entrepreneur. Master's in Computer Science from Carnegie Mellon University, BS in Electrical Engineering from Tongji University Shanghai. Former Software Engineer at Snapchat (2014-2020), one of first 100 employees. Built Snapchat advertising platform, recommendation algorithm system, machine learning platform Barista, and AI camera. Expert in ads ranking, machine learning, and computational photography."
+        },
+        {
+          "name": "Wayne Liang",
+          "role": "Co-founder & Chief Innovation Officer",
+          "bio": "Chinese-American product leader. Master's degree from Carnegie Mellon University, studied at Tongji University Shanghai with Joshua Xu. Former Product Designer at Smule (karaoke app) and ByteDance (TikTok parent company). Moved to West Coast in 2014. Drives product development and technological advancement at HeyGen."
+        }
+      ],
+      "total_funding_usd": 74000000,
+      "latest_funding_round_date": "2024-06-20",
+      "latest_funding_amount_usd": 60000000,
+      "latest_funding_round_type": "Series A",
+      "valuation_usd": 500000000,
+      "revenue_arr_usd": 100000000,
+      "revenue_multiple": 5.0,
+      "valuation_multiple_description": "$500M valuation / $100M ARR (as of Oct 2025) = 5x ARR multiple. Grew from $1M ARR (2023) to $35M ARR (June 2024) to $100M ARR (Oct 2025).",
+      "key_products": [
+        "AI Avatar Generator",
+        "Video Translation (175 languages)",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Lip Sync",
+        "Screen Recorder",
+        "Video Localization",
+        "Video Templates"
+      ],
+      "target_market": "Businesses of all sizes, from small companies to Fortune 500. Used by 40,000+ paying customers for marketing, sales enablement, internal communications, training, and product demos",
+      "investors": [
+        "Benchmark",
+        "Conviction (Sarah Guo)",
+        "Thrive Capital",
+        "BOND Capital",
+        "SV Angel",
+        "Sequoia China (now HongShan)",
+        "ZhenFund",
+        "Basis Set Ventures"
+      ],
+      "source_links": [
+        "https://tracxn.com/d/companies/heygen/__P9ntSZJZGrYxYW3EjY13X-Z2YEpHcCPx1Glu86tKclA",
+        "https://www.heygen.com/blog/announcing-our-series-a",
+        "https://en.wikipedia.org/wiki/HeyGen"
+      ]
+    },
+    {
+      "company_name": "Twelve Labs",
+      "website": "https://twelvelabs.io",
+      "founded_year": 2021,
+      "headquarters": "Seattle, WA / San Francisco, CA",
+      "slogan_tagline": "Bringing human-like video understanding to any application",
+      "founders": [
+        {
+          "name": "Soyoung Lee",
+          "role": "Co-founder",
+          "bio": "Korean-American AI entrepreneur. Co-founded Twelve Labs in 2021 with vision for multimodal video understanding. Part of founding team building AI-based platform for video analysis."
+        },
+        {
+          "name": "Aiden Lee",
+          "role": "Co-founder",
+          "bio": "AI entrepreneur and engineer. Co-founded Twelve Labs in 2021. Part of founding team building video understanding AI technology."
+        },
+        {
+          "name": "Dave Chung",
+          "role": "Co-founder",
+          "bio": "AI entrepreneur and engineer. Co-founded Twelve Labs in 2021. Part of founding team developing multimodal AI for video analysis."
+        },
+        {
+          "name": "Jae Lee",
+          "role": "Co-founder",
+          "bio": "AI entrepreneur and engineer. Co-founded Twelve Labs in 2021. Part of founding team building video understanding AI platform."
+        },
+        {
+          "name": "SJ Kim",
+          "role": "Co-founder",
+          "bio": "AI entrepreneur and engineer. Co-founded Twelve Labs in 2021. Part of founding team developing video AI technology."
+        }
+      ],
+      "total_funding_usd": 107000000,
+      "latest_funding_round_date": "2024-12-12",
+      "latest_funding_amount_usd": 4646777,
+      "latest_funding_round_type": "Series A",
+      "valuation_usd": null,
+      "revenue_arr_usd": null,
+      "revenue_multiple": null,
+      "valuation_multiple_description": "Valuation not publicly disclosed. Total funding of $107M raised across 5 rounds. Latest funding amounts from regulatory filings.",
+      "key_products": [
+        "Video Search API",
+        "Video Generation API",
+        "Video Classification API",
+        "Video Embeddings",
+        "Video Understanding Platform",
+        "Multimodal AI Models"
+      ],
+      "target_market": "Enterprise developers, businesses building video applications, media companies, content platforms, and anyone needing video understanding AI. Open API platform for integration into any application",
+      "investors": [
+        "New Enterprise Associates (NEA)",
+        "Index Ventures",
+        "Radical Ventures",
+        "Intel Capital",
+        "NVIDIA",
+        "Samsung Next"
+      ],
+      "source_links": [
+        "https://pitchbook.com/profiles/company/439422-85",
+        "https://tracxn.com/d/companies/twelve-labs/__eZXrk6YPamabNtuA7HzJhUEnE2Tu0OTrBAOris8TVJs",
+        "https://twelvelabs.io"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "companies": [
+    {
+      "company_name": "Jasper",
+      "website": "https://jasper.ai",
+      "founded_year": 2021,
+      "headquarters": "Austin, Texas, United States",
+      "slogan_tagline": "AI platform purpose-built for better marketing outputs & outcomes",
+      "founders": [
+        {
+          "name": "Dave Rogenmoser",
+          "role": "Co-founder & Former CEO",
+          "biography": "Entrepreneur and marketer by trade. Y Combinator alum who previously co-founded Proof, a startup that used algorithms to customize websites. Led Jasper from launch to unicorn status. Stepped down as CEO in September 2023, remaining as Chairman."
+        },
+        {
+          "name": "J.P. Morgan",
+          "role": "Co-founder & Former CTO",
+          "biography": "Background in business-to-business marketing and process automation. Helped co-launch Proof before founding Jasper."
+        },
+        {
+          "name": "Chris Hull",
+          "role": "Co-founder",
+          "biography": "Background in business-to-business marketing and process automation. Helped co-launch Proof before founding Jasper."
+        }
+      ],
+      "total_funding_usd": 131000000,
+      "latest_funding_round": "Series A - $125M (October 2022) + $6M seed",
+      "valuation_usd": 1500000000,
+      "revenue_arr": 55000000,
+      "key_products": [
+        "AI Content Platform for Marketing",
+        "Jasper Chat",
+        "AI Image Suite",
+        "Brand IQ for voice guidelines",
+        "Marketing Workflow Automation",
+        "Clipdrop (acquired 2024)"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/",
+        "https://www.businessinsider.com/generative-ai-startup-jasper-raises-seriesa-funding-insight-openai-2022-10",
+        "https://sacra.com/c/jasper/"
+      ]
+    },
+    {
+      "company_name": "Bria",
+      "website": "https://bria.ai",
+      "founded_year": 2020,
+      "headquarters": "Tel Aviv, Israel / New York, NY",
+      "slogan_tagline": "Your AI. Your Rules. - Controllable Visual AI for Enterprise",
+      "founders": [
+        {
+          "name": "Dr. Yair Adato",
+          "role": "Co-founder & CEO",
+          "biography": "PhD in Computer Science (Computer Vision) from Ben-Gurion University in collaboration with Harvard University. Former CTO of Trax Retail where he helped transform the company from an early-stage startup to unicorn status with ~1,000 employees. Holder of 60+ patents at the intersection of AI and commercial applications. Visionary in Computer Vision and Generative AI."
+        },
+        {
+          "name": "Gal Jacobi",
+          "role": "Co-founder & President",
+          "biography": "Co-founded Bria with Dr. Yair Adato in 2020. Works alongside the CEO to build the Responsible and Open Generative AI Platform."
+        }
+      ],
+      "total_funding_usd": 65000000,
+      "latest_funding_round": "Series B - $40M (March 2025), bringing total to $65M",
+      "valuation_usd": null,
+      "revenue_arr": null,
+      "key_products": [
+        "Visual Generative AI Platform",
+        "Patented Attribution Engine (licensed-data trained models)",
+        "API Platform for image generation and editing",
+        "Photoshop and Figma Plugins",
+        "Fine-tuning API for custom models",
+        "IP Ecosystem for licensed content"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/",
+        "https://www.prnewswire.com/il/news-releases/bria-secures-40m-in-series-b",
+        "https://blog.bria.ai/bria-awarded-40m-in-series-b"
+      ]
+    },
+    {
+      "company_name": "Hugging Face",
+      "website": "https://huggingface.co",
+      "founded_year": 2016,
+      "headquarters": "Brooklyn, New York, United States",
+      "slogan_tagline": "AI community, building the future",
+      "founders": [
+        {
+          "name": "Clément Delangue",
+          "role": "Co-founder & CEO",
+          "biography": "French entrepreneur from La Bassée, France. Started as one of France's top eBay sellers at age 17. Master's from ESCP Business School with programs at Stanford and IIM Bangalore. Previously worked at Moodstocks (acquired by Google) and Mention. Forbes 30 Under 30 Europe 2017. Named one of Top 100 Most Influential French People by Vanity Fair 2021."
+        },
+        {
+          "name": "Julien Chaumond",
+          "role": "Co-founder & CTO",
+          "biography": "French entrepreneur and engineer. Met Clément Delangue in 2016 and shared passion for open technology. College friend of Thomas Wolf."
+        },
+        {
+          "name": "Thomas Wolf",
+          "role": "Co-founder & Chief Science Officer",
+          "biography": "PhD in Physics. Machine learning researcher and author of research papers. Leads open-source and science teams at Hugging Face."
+        }
+      ],
+      "total_funding_usd": 395000000,
+      "latest_funding_round": "Series D - $235M (August 2023)",
+      "valuation_usd": 4500000000,
+      "revenue_arr": null,
+      "key_products": [
+        "Model Hub (1M+ AI models hosted)",
+        "Transformers Library",
+        "Datasets Hub (250,000+ datasets)",
+        "AutoTrain (automated model training)",
+        "Inference API",
+        "Enterprise Hub",
+        "BLOOM (multilingual LLM)"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/",
+        "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html",
+        "https://kitrum.com/blog/the-inspiring-journey-of-clement-delangue-hugging-faces-founder/"
+      ]
+    },
+    {
+      "company_name": "Typeface",
+      "website": "https://typeface.ai",
+      "founded_year": 2022,
+      "headquarters": "Palo Alto, California, United States",
+      "slogan_tagline": "Reimagine the content lifecycle - Personalized Marketing AI Platform for Enterprises",
+      "founders": [
+        {
+          "name": "Abhay Parasnis",
+          "role": "Founder & CEO",
+          "biography": "Former CTO of Adobe (2015-2022). Led Adobe's transformation to cloud and AI-powered experiences with Creative Cloud, Document Cloud, and Experience Cloud. Previously held leadership roles at Microsoft, Oracle, and i2 Technologies. Founded Typeface in 2022 after recognizing the need for enterprise-ready generative AI solutions for marketing."
+        }
+      ],
+      "total_funding_usd": 165000000,
+      "latest_funding_round": "Series B - $100M (June 2023) at $1B valuation",
+      "valuation_usd": 1000000000,
+      "revenue_arr": 8000000,
+      "key_products": [
+        "Brand Hub (brand guideline management)",
+        "Arc AI Agents (Ideation, Creative, Workflow, Performance)",
+        "Blend (AI training for brand voice)",
+        "Flow (templates and workflows)",
+        "Image Studio for AI product photography",
+        "Video-to-text conversion"
+      ],
+      "source_links": [
+        "https://techcrunch.com/2023/06/29/typeface-which-is-building-generative-ai-for-brands-raises-100m-at-a-1b-valuation/",
+        "https://www.typeface.ai/blog/typeface-announces-100-m-in-new-funding",
+        "https://blogs.microsoft.com/bayarea/2025/09/18/changing-the-world-one-campaign-at-a-time/"
+      ]
+    },
+    {
+      "company_name": "Synthesia",
+      "website": "https://synthesia.io",
+      "founded_year": 2017,
+      "headquarters": "London, United Kingdom",
+      "slogan_tagline": "Making video easy for everyone - Create engaging videos in minutes",
+      "founders": [
+        {
+          "name": "Victor Riparbelli",
+          "role": "Co-founder & CEO",
+          "biography": "Danish entrepreneur. Bachelor's degree in Computer Science and Business Informatics from University of Copenhagen. Stanford attendance. Named to TIME100 AI 2024 list. Previously involved in technology entrepreneurship for 10+ years, including co-founding Coincall (crypto portfolio tracker, sold 2019). A 30 Under 30 alum."
+        },
+        {
+          "name": "Steffen Tjerrild",
+          "role": "Co-founder & COO/CFO",
+          "biography": "Danish entrepreneur. Master's in Applied Economics & Finance from Copenhagen Business School. Previously worked in sales and business roles before moving into startups. Oversees operations, finance and global scaling at Synthesia."
+        },
+        {
+          "name": "Prof. Matthias Niessner",
+          "role": "Co-founder",
+          "biography": "Professor and AI researcher. Expert in computer vision and deep learning. Published research on AI video generation. Formerly at Technical University of Munich (TUM)."
+        },
+        {
+          "name": "Prof. Lourdes Agapito",
+          "role": "Co-founder",
+          "biography": "Professor and AI researcher from University College London (UCL). Expert in computer vision and 3D reconstruction. Published research on AI video generation."
+        }
+      ],
+      "total_funding_usd": 536000000,
+      "latest_funding_round": "Series E - $200M (October 2025) at $4B valuation, led by GV (Google Ventures)",
+      "valuation_usd": 4000000000,
+      "revenue_arr": 100000000,
+      "key_products": [
+        "AI Avatar Video Platform",
+        "Custom Avatar Creation",
+        "140+ Language Support",
+        "Enterprise Video Templates",
+        "API for Developers",
+        "AI Screen Recorder",
+        "Localization and Translation Tools",
+        "Interactive Video Agents"
+      ],
+      "source_links": [
+        "https://www.forbes.com/sites/rashishrivastava/2025/10/29/ai-video-startup-synthesia-valued-at-4-billion-in-new-200-million-raise/",
+        "https://www.synthesia.io/post/100-million-revenue-adobe-investment",
+        "https://sacra.com/c/synthesia/"
+      ]
+    }
+  ],
+  "excluded_companies": [
+    {
+      "company_name": "PlayHT",
+      "reason": "Funding below $50M threshold ($500K pre-seed only)",
+      "funding": 500000
+    },
+    {
+      "company_name": "Hour One",
+      "reason": "Funding below $50M threshold ($25M total, acquired by Wix in May 2025)",
+      "funding": 25000000
+    },
+    {
+      "company_name": "Steve.ai",
+      "reason": "Unfunded or undisclosed funding below threshold",
+      "funding": "Unknown"
+    },
+    {
+      "company_name": "Sudowrite",
+      "reason": "Unknown funding, likely below threshold (focused on AI writing, not video)",
+      "funding": "Unknown"
+    },
+    {
+      "company_name": "Elai.io",
+      "reason": "Acquired by Panopto (October 2024), undisclosed funding likely below threshold",
+      "funding": "Unknown (acquired)"
+    }
+  ],
+  "research_metadata": {
+    "companies_included": 5,
+    "companies_excluded": 5,
+    "research_date": "2025",
+    "criteria": "Companies with >$50M total funding in GenAI video space"
+  }
+}
